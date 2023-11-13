@@ -1,0 +1,6 @@
+first='Divya'
+last='Rachara'
+msg=f'{first} {[last]} is a coder'
+print(msg)
+
+

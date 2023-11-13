@@ -1,3 +1,5 @@
 [user]
 	name = manideep
 	email = manideep0411@gmail.com
+[core]
+	fileMode = false
