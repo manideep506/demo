@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Nov 12 09:11:34 IST 2023
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1699760493887
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.protobuf\:protobuf-bom\:pom\:3.11.4 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\ADMIN\\.m2\\repository\\com\\google\\protobuf\\protobuf-bom\\3.11.4\\protobuf-bom-3.11.4.pom.part.lock (Access is denied)
