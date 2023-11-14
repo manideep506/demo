@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .bash_history
 .lesshst
 .ssh/
@@ -22,3 +23,38 @@ NTUSER.DAT
 ntuser.dat.LOG1
 ntuser.dat.LOG2
 ntuser.ini
+=======
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+>>>>>>> 957f3eb6123df2a2dc77b982beed41a65b04b131
